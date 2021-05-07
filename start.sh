@@ -1,2 +1,2 @@
 #!/bin/sh
-sudo cp /home/flo/Desktop/CO2Sensor/CO2Sensor-src/update.sh /home/flo/Desktop/CO2Sensor
+sudo cp /home/pi/Desktop/CO2Sensor/CO2Sensor-src/update.sh /home/pi/Desktop/CO2Sensor
